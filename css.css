@@ -6,6 +6,7 @@ body {
 	margin: 0px;
 	height: 100%;
 	overflow-x: hidden;
+	font-family: Helvetica, Arial; 
 }
 #wrapper, #tbspacing {
 	width: 1024px;
