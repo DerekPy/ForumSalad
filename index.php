@@ -16,7 +16,7 @@
 		<div id="topnav">
 			<div id="tbspacing">
 				<div id="mn">
-					MESSAGES <img src="notifications.png" />
+				<img src="http://i.imgur.com/ByjJzQU.png"> <img src="http://i.imgur.com/EO8M6BB.png" />
 				</div>
 				<div id="u">
 					USER LOGOUT
