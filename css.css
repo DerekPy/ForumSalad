@@ -19,6 +19,7 @@ body {
 }
 #topnav {
 	height: 32px;
+	padding: 2px;
 	background: #080808;
 	text-align: center;
 	color: #ffffff;
