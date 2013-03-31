@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<title>[Board Name]</title>
-<link rel="stylesheet" type="text/css" href="/style/[User's Style].css">
-=======
 <!DOCTYPE HTML>
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
@@ -38,4 +34,3 @@
 		</div>
 	</body>
 </html>
->>>>>>> Some broken fragments
