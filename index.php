@@ -24,11 +24,16 @@
 			</div>
 		</div>
 		<div id="wrapper">
-			<div id="header">
-				WELCOME TO MY FORUM!!!!!!!!!!!!!111
+			<div id="nsb">
+				<div id="header">
+					header
+				</div>
+				<div id="content">
+					omgomgomgomgomg
+				</div>
 			</div>
-			<div id="content">
-				omgomgomgomgomg
+			<div id="sb">
+				hehehe
 			</div>
 		</div>
 	</body>

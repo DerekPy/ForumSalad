@@ -15,7 +15,7 @@ body {
 }
 #wrapper {
 	min-height: 100%;
-	padding-top: 40px;
+	padding-top: 20px;
 }
 #topnav {
 	height: 32px;
@@ -37,4 +37,18 @@ body {
 }
 #mn {
 	text-align: left;
+}
+#nsb, #sb {
+	display: table-cell;
+	height: 100%;
+}
+#header, #content {
+	text-align: left;
+}
+#sb {
+	background: #eeeeee;
+	width: 200px;
+}
+#nsb {
+	width: 824px;
 }
