@@ -1,0 +1,38 @@
+html {
+	height: 100%;
+}
+body {
+	padding: 0px;
+	margin: 0px;
+	height: 100%;
+	overflow-x: hidden;
+}
+#wrapper, #tbspacing {
+	width: 1024px;
+	margin: 0px auto;
+	text-align: center;
+}
+#wrapper {
+	min-height: 100%;
+	padding-top: 40px;
+}
+#topnav {
+	height: 32px;
+	background: #080808;
+	text-align: center;
+	color: #ffffff;
+	position: fixed;
+	top: 0px;
+	width: 100%;
+}
+#u, #mn {
+	display: table-cell;
+	width: 512px;
+	padding: 0px 30px;
+}
+#u {
+	text-align: right;
+}
+#mn {
+	text-align: left;
+}
