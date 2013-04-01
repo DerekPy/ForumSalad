@@ -1,0 +1,107 @@
+ForumSalad Functionality
+
+Online List
+Timezones
+Guests Online
+Newest User
+Member List
+Search (posts, users, topics)
+Last Visit
+Logout
+
+Sidebar (on right) with categories such as blog updates, status updates, etc.
+Sidebar categories are collapsable
+Sidebar is collapseable
+Customizeable Sidebar categories
+Banner/Text at top
+Forums Description
+
+Forums (collapseable)
+Forum description
+Subforums
+Display Subforums at top of parent category
+Subforums of subforums and subforums of those subforums and so on
+Latest posts, posts, and topics count next to forum names
+
+Notification bar
+
+PMing
+Topic System
+Invite more than 1 user (Group Chat)
+IRC (disable from ACP) (limited by quota, if they go over, they are auto-deleted, adjustable message limit)
+
+User avatars and sigs
+Super Customizeable Profiles
+Background Image/Color of Profiles (can be disabled)
+Commenting on Profiles
+About Me
+Custom Profile Fields set in ACP
+Gender
+Age (optional)
+Birthday (optional)
+Name (optional)
+Recent Topics
+Fields can be disabled
+Contact info (optional)
+Admins can edit user page
+Admin note
+
+Sexy ACP
+Smileys
+Language Packs (by users)
+Easy-2-Add smiley from ACP
+Censoring
+Failed admin logins
+
+Default Theme
+Change theme from index
+User Group Specific themes
+
+Anti-Spam
+Forgot your Password
+Custom Rules for Registration
+Verification Email
+Report User/Flag User (Sigs and Avatars, as spammer)
+Ability to Disable Registration
+
+Mark all as read button
+
+Quoting Posts
+Report Posts
+Edit Posts
+Delete Posts
+Mention Users (@Derek) (optional, on as default)
+Notify User when post is quoted 
+Notifications limited by quota, if they go over, they are auto-deleted
+Ignore user
+Notify user when mentioned in a post
+Date/Time of post
+Topic Creation
+Quick Reply
+
+Post Count
+Moderation System
+IP Tracking
+
+
+Default Group
+Add new group
+Edit Group
+Admin, Mod, Member, Guest groups default
+Guests can't post
+Group names under username on Search
+Search users in ACP
+IP Search
+
+Unread/Read/Status Indicators
+Jump to
+Total posts, topics, and users
+Powered By
+
+Ban displays a screen with a message
+Bans monitored in ACP
+Mods and admins are only alerted of reports that link to posts/users that haven’t had any admin interaction since it was reported
+Reports can be copied into the archive, but they aren’t automatically moved there
+
+Announcements
+Maintenance Mode
